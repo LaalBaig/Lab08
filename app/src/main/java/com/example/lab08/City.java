@@ -1,5 +1,5 @@
 package com.example.lab08;
-
+// add a small comment for testing
 public class City {
     private String city;
     private String province;
